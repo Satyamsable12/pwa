@@ -1,6 +1,6 @@
 {
     "name": "SKILLHUB",
-    "start_url": "/PWA",
+    "start_url": "/pwa",
     "background_color": "#379df1",
     "theme_color": "#379df1",
     "display": "standalone",
